@@ -1,0 +1,1 @@
+Implementing Deep Learning by scratch :D (in python)
