@@ -1,1 +1,1 @@
-Implementing Deep Learning by scratch :D (in python)
+Implementation of neural net by hand for educational purposes.  Inpsired by http://karpathy.github.io/neuralnets/
